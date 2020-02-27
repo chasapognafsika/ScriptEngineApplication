@@ -1,0 +1,4 @@
+﻿select-window "Untitled - Notepad" 
+mouse-move 192, 100 
+mouse-click single-click 
+send-keys "today in wikipedia"
