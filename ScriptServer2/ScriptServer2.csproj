@@ -82,7 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandsServer.cs" />
-    <Compile Include="Controllers\RegisterClientController.cs" />
+    <Compile Include="Controllers\ServeClientController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScriptGrammar.cs" />
